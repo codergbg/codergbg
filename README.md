@@ -1,5 +1,3 @@
-<img src="你的横幅图片URL" alt="Header Banner" width="100%" />
-
 <h1 align="center">
   Hey, I'm CoderGbg!
 </h1>
